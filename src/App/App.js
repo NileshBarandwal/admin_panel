@@ -4,7 +4,7 @@ import SideMenu from "../components/SideMenu";
 import { makeStyles, CssBaseline, createMuiTheme, ThemeProvider } from '@material-ui/core';
 import Header from "../components/Header";
 
-import Vendors from "../pages/Vendors/Vendors";
+// import Vendors from "../pages/Vendors/Vendors";
 
 const theme = createMuiTheme({
   palette: {
@@ -52,7 +52,7 @@ function App() {
         <Header />
         <section className="App">
     </section>
-        <Vendors />
+        {/* <Vendors /> */}
       </div>
       <CssBaseline />
     </ThemeProvider>
