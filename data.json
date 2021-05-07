@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "vendorcode": "01MB19",
+      "vendorname": "ABC",
+      "officeaddress": "Pune",
+      "officetype": "HO",
+      "suppliercategory": "5 Star",
+      "client": "95%",
+      "supplier": "100%",
+      "btdmn": "25",
+      "enrollstatus": "Completed"
+    },
+    {
+      "id": 2,
+      "vendorcode": "01MB20",
+      "vendorname": "XYZ",
+      "officeaddress": "Mumbai",
+      "officetype": "HO",
+      "suppliercategory": "7 Star",
+      "client": "75%",
+      "supplier": "90%",
+      "btdmn": "5",
+      "enrollstatus": "Completed"
+    },
+    {
+      "id": 3,
+      "vendorcode": "01MB21",
+      "vendorname": "Pcables",
+      "officeaddress": "Banglore",
+      "officetype": "Branch Office",
+      "suppliercategory": "4 Star",
+      "client": "89%",
+      "supplier": "95%",
+      "btdmn": "50",
+      "enrollstatus": "Completed"
+    },
+    {
+      "id": 4,
+      "vendorcode": "01MB22",
+      "vendorname": "LMN",
+      "officeaddress": "Ahmedabad",
+      "officetype": "HO",
+      "suppliercategory": "-",
+      "client": "-",
+      "supplier": "-",
+      "btdmn": "-",
+      "enrollstatus": "Pending"
+    }
+  ]
